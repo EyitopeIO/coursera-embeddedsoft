@@ -9,13 +9,13 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+ * @file stats.c 
+ * @brief Function definition for stats.h
  *
  * <Add Extended Description Here>
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author Eyitope Adelowo
+ * @date 12th June 2020
  *
  */
 
@@ -40,4 +40,30 @@ void main() {
 
 }
 
-/* Add other Implementation File Code Here */
+int print_statistics(){
+  return 0;
+}
+
+int print_array(){
+  return 0;
+}
+
+int find_median(){
+  return 0;
+}
+
+int find_mean(){
+  return 0;
+}
+
+int find_maximum(){
+  return 0;
+}
+
+int find_minimum(){
+  return 0;
+}
+
+int sort_array(){
+  return 0;
+}
